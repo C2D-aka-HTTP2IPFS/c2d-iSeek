@@ -1,2 +1,3 @@
-# iSeek-video
-Portal for seeking all kinds of videos through the IPFS distributed web.
+# c2d-iSeek
+
+> Portal for seeking all kinds of content via the IPFS distributed web.
