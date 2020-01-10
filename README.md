@@ -2,7 +2,4 @@
 
 > Portal for seeking all kinds of content via the IPFS distributed web.
 
-### Philosophy
-- Distributed: Peerful, Serverless, Personal
-- Universal: All diversities in one integral space(time)
-- Humanistic: Needs?(Sure!); Desire?(Maybe...)
+### [Philosophy](https://github.com/C2D-aka-HTTP2IPFS/c2d/blob/master/README.md#philosophy)
